@@ -36,5 +36,5 @@ def main():
     except ValueError:
         print("Invalid input. Please enter valid strings.")
 
-if __name__ == "_main_":
-    main()
+# if __name__ == "_main_":
+main()
